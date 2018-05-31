@@ -1,2 +1,4 @@
 name: cleo miao test
 markdown: kramdown
+
+theme: jekyll-theme-cayman
