@@ -14,24 +14,19 @@
   <body>
     <div class="wrapper">
       <header>
-          <p>cleo (yuekai) miao is a chinese artist currently based in boston, MA.</p>
-
-<p>She is an anti-disciplinary media artist. She works to make sense of identities and bodies in virtual spaces. She plays with both the poetics and the absurdity of digital tools and culture. </p>
-
-<p>cleo’s work considers the reality that is configured and mediated by images. Technology forces us to rethink the presence (or absence) of the self in virtual spaces. It augments and modifies our perception and understanding of the world around us and therefore becomes an extension of our physical bodies. Images of the self captured with cameras and 3d scanners made presentable first for the screens eventually become a way of self-inspection. As we try to recreate and translate our reality, the digital inserts itself and creates a new system of intimacy. Through playful investigation, cleo questions and spectates the role and affect of photographic images and mediums. She is currently working on her thesis installation, for which she creates a digital nature to reimagine a post-industrial and post-internet form of solitude.</p>
-        
+          <a href=""{{ "/" | absolute_url }}""><h1>cleo miao</h1></a>
+          {% if site.logo %}
+          <img src="{{site.logo | relative_url}}" alt="Logo" />
+        {% endif %}
+          <br><br>
+          <a href="../pages/about.html">statement</a><br>
+          <a href="../pages/shows.html">shows</a>
       </header>
       <section>
 
       {{ content }}
 
       </section>
-      <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
