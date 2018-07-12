@@ -1,17 +1,25 @@
 ---
 layout: default
 ---
-__UPCOMING__
+>>>
+__UPCOMING__  
 
 *TRNGS + Cleo Miao*
+>
+07.21.2018 Tundra Dome, Philadelphia, PA  
+07.22.2018 H0l0, New York, NY  
 
-07.21.2018 Tundra Dome, Philadelphia, PA
+*Distributed Web of Care*
+>
+07.15.2018 Skillshare with Jessica Lynne and Shannon Finnegan  
+07.22.2018 Skillshare with Stephanie Gray and Eliza Chandler  
+07.29.2018 DWC Party (DJ set by Stud1nt)  
+(all events will happen at Ace Hotel New York. Free with RSVP)  
 
-07.22.2018 H0l0, New York, NY
+___
 
-
-
-__PAST__
+>>>
+__SELECTED__
 
 Augmented Reality and video projection at the Institute of Contemporary Art, Boston (2018)
 
@@ -41,8 +49,8 @@ SMFA Library Sounds series
 
 New Ideas in Music and Sound
 
-
-
+___
+>>>
 __CURATORIAL__
 
 Becoming Posthuman: multimedia / cyber art event in Boston, MA (2017/11/11)
