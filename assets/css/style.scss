@@ -183,7 +183,7 @@ img{
 /* responsive design*/
 
 @media only screen and (max-width: 600px) {
-    img{width:280px;}
+    img{width:75%;}
 #nav{/* nav bar */
 overflow-x: scroll;
 position: absolute;
@@ -195,7 +195,8 @@ top: 0px;}
     .body_frame{/* Frame 2 */
 //overflow-y: scroll;
 position: fixed;
-width: 291px;
+//width: 291px;
+width: 76%;
 //height: 444px;
 left: 46px;
 top: 191px;
@@ -215,7 +216,8 @@ bottom: 0%;
 .list_frame{/* Frame 2 */
 overflow: scroll;
 position: fixed;
-width: 291px;
+//width: 291px;
+    width: 76%;
 height: 150px;
 left: 46px;
 top: 191px;
@@ -236,8 +238,9 @@ overflow: scroll;
 position: fixed;
 /*width: 828px;*/
 /*height: 475px;*/
-width: 291px;
+//width: 291px;
 //height: 407px;
+    width: 76%;
 left: 46px;
 top: 357px;
 bottom: 50px;
