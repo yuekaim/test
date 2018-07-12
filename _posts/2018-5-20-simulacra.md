@@ -4,7 +4,7 @@ layout: projects
 catagories: Projects
 
 ---
-website being updates.
+website being updated.
 
 more coming soon.
 
