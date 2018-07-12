@@ -1,7 +1,6 @@
 ---
 layout: default
-image: /assets/img/logo.png
-og:image
+
 ---
 
 cleo miao is an ~~multi~~ anti-displinary artist based in boston, MA.
