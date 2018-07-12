@@ -1,6 +1,24 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+title: cleo miao
+
+description: cleo miao portfolio website
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-minimal
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - mix-manifest.json
+  - webpack.mix.js
+  - yarn.lock
+  - package.json
+  - hot
+  - LICENSE.txt
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+  - jekyll-readme-index
+
+permalink: /:catagories/:title/

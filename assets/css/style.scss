@@ -1,4 +1,181 @@
 ---
 ---
 
-@import "jekyll-theme-minimal";
+::-webkit-scrollbar {
+    width: 2px;
+}
+
+body{
+/* font */  
+font-family: 'Open Sans', sans-serif;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 18px;
+
+color: #0500FF;
+}
+
+a{color: #0500FF;}
+
+.box:hover{
+    background: #0500FF;
+    color:white;
+}
+
+#nav{/* nav bar */
+position: fixed;
+width: 675px;
+height: 188px;
+left: 0px;
+top: 0px;}
+
+#home{/* home button */
+
+position: absolute;
+left: 8%;
+right: 78.37%;
+top: 51.6%;
+bottom: 26.06%;
+}
+
+#about{/* about button */
+
+position: absolute;
+left: 30.22%;
+right: 56.15%;
+top: 51.6%;
+bottom: 26.06%;
+}
+
+#projects{/* project button */
+
+position: absolute;
+left: 52.44%;
+right: 33.93%;
+top: 51.6%;
+bottom: 26.06%;
+}
+
+#shows{/* shows button */
+
+position: absolute;
+left: 74.67%;
+right: 11.7%;
+top: 51.6%;
+bottom: 26.06%;
+}
+
+.box{/* Rectangle */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+border: 1px solid #0500FF;
+box-sizing: border-box;
+    
+}
+
+#home .cat{
+position: absolute;
+left: 23.91%;
+right: 22.83%;
+top: 21.43%;
+bottom: 19.05%;
+}
+
+#about .cat{/* about */
+
+position: absolute;
+left: 22.83%;
+right: 22.83%;
+top: 21.43%;
+bottom: 19.05%;
+}
+
+#projects .cat{position: absolute;
+left: 13.04%;
+right: 13.04%;
+top: 21.43%;
+bottom: 19.05%;}
+
+#shows .cat{position: absolute;
+left: 20.65%;
+right: 20.65%;
+top: 21.43%;
+bottom: 19.05%;
+}
+
+.body_frame{/* Frame 2 */
+overflow: scroll;
+position: absolute;
+width: 542px;
+/*height: 475px;*/
+left: 54px;
+top: 200px;
+bottom: 50px;
+
+}
+
+.body_text{
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+}
+
+.list_frame{/* Frame 2 */
+overflow: scroll;
+position: absolute;
+width: 300px;
+/*height: 475px;*/
+left: 54px;
+top: 200px;
+bottom: 50px;
+
+}
+
+.list_text{
+position: absolute;
+left: 0%;
+right: 0%;
+top: 3%;
+}
+
+.project_frame{/* Frame 2 */
+overflow: scroll;
+position: absolute;
+/*width: 828px;*/
+/*height: 475px;*/
+left: 323px;
+right: 50px;
+top: 200px;
+bottom: 50px;
+}
+
+.project_body{
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+}
+
+.project_list{
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+}
+
+.project_list:hover{
+    background-color: white;
+    color: blue;
+    text-decoration: none;
+}
+
+img{
+    filter: grayscale(100%);
+}

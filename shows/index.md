@@ -1,8 +1,17 @@
 ---
 layout: default
 ---
+__UPCOMING__
 
-### PAST SHOWS
+*TRNGS + Cleo Miao*
+
+07.21.2018 Tundra Dome, Philadelphia, PA
+
+07.22.2018 H0l0, New York, NY
+
+
+
+__PAST__
 
 Augmented Reality and video projection at the Institute of Contemporary Art, Boston (2018)
 
@@ -33,12 +42,12 @@ SMFA Library Sounds series
 New Ideas in Music and Sound
 
 
-***
 
-### CURATORIAL
+__CURATORIAL__
 
 Becoming Posthuman: multimedia / cyber art event in Boston, MA (2017/11/11)
 
 event planning for Teacher's Lounge in Allston, MA
 
 art installation "Trash Land" for boston hassle's hassle fest 8
+

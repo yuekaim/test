@@ -34,12 +34,20 @@
             </a>
         </div>
       </header>
-      <div class="body_frame">
+      <div class="list_frame">
 
-        <div class="body_text">{{ content }}</div>
+        <div class="list_text">
+            {%for post in site.posts %}
+            <a class="project_list" href="{{ post.url | relative_url }}">
+                {{ post.title | escape }}</a><br><br>
+          {% endfor %}</div>
 
       </div>
-    
+      <div class="project_frame">
+        <div class="project_body">
+          {{ content }}
+          </div>  
+      </div>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
