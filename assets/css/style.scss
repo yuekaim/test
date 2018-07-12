@@ -14,6 +14,11 @@ line-height: normal;
 font-size: 18px;
 
 color: #0500FF;
+    
+-webkit-user-select: none;  /* Chrome all / Safari all */
+  -moz-user-select: none;     /* Firefox all */
+  -ms-user-select: none;      /* IE 10+ */
+  user-select: none;          /* Likely future */     
 }
 
 a{color: #0500FF;}
@@ -112,7 +117,7 @@ bottom: 19.05%;
 
 .body_frame{/* Frame 2 */
 overflow: scroll;
-position: absolute;
+position: fixed;
 width: 542px;
 /*height: 475px;*/
 left: 54px;
@@ -130,7 +135,7 @@ top: 0%;
 
 .list_frame{/* Frame 2 */
 overflow: scroll;
-position: absolute;
+position: fixed;
 width: 300px;
 /*height: 475px;*/
 left: 54px;
@@ -138,6 +143,8 @@ top: 200px;
 bottom: 50px;
 
 }
+
+img{width:100%;}
 
 .list_text{
 position: absolute;
@@ -148,9 +155,10 @@ top: 3%;
 
 .project_frame{/* Frame 2 */
 overflow: scroll;
-position: absolute;
+position: fixed;
 /*width: 828px;*/
 /*height: 475px;*/
+width: 50%;
 left: 323px;
 right: 50px;
 top: 200px;
@@ -183,7 +191,7 @@ img{
 /* responsive design*/
 
 @media only screen and (max-width: 600px) {
-    img{width:75%;}
+    img{width:100%;}
 #nav{/* nav bar */
 overflow-x: scroll;
 position: absolute;
