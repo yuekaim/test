@@ -15,10 +15,6 @@ exclude:
   - LICENSE.txt
 
 plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jemoji
-  - jekyll-readme-index
 
-permalink: /:catagories/:title/
+
+permalink: /:title/
