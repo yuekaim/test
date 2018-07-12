@@ -3,7 +3,9 @@ x = mouseX;
 y = mouseY;
 
 function setup(){
-    var cns = createCanvas(windowWidth, windowHeight);
+    if (windowWidth > 600){
+        var cns = createCanvas(windowWidth, windowHeight);
+    }
 }
 
 function draw(){
