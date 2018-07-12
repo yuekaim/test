@@ -179,3 +179,82 @@ top: 0%;
 img{
     filter: grayscale(100%);
 }
+
+/* responsive design*/
+
+@media only screen and (max-width: 600px) {
+    img{width:280px;}
+#nav{/* nav bar */
+overflow-x: scroll;
+position: absolute;
+height: 191px;
+left: 0px;
+right: 0px;
+top: 0px;}
+    
+    .body_frame{/* Frame 2 */
+//overflow-y: scroll;
+position: fixed;
+width: 291px;
+//height: 444px;
+left: 46px;
+top: 191px;
+bottom: 50px;
+border: 1px solid #0500FF;
+
+}
+
+.body_text{
+position-y: absolute;
+left: 2%;
+right: 2%;
+top: 0%;
+bottom: 0%;
+}
+
+.list_frame{/* Frame 2 */
+overflow: scroll;
+position: fixed;
+width: 291px;
+height: 150px;
+left: 46px;
+top: 191px;
+
+border: 1px solid #0500FF;
+
+}
+
+.list_text{
+position: absolute;
+left: 2%;
+right: 2%;
+top: 5%;
+}
+
+.project_frame{/* Frame 2 */
+overflow: scroll;
+position: fixed;
+/*width: 828px;*/
+/*height: 475px;*/
+width: 291px;
+//height: 407px;
+left: 46px;
+top: 357px;
+bottom: 50px;
+
+border: 1px solid #0500FF;
+}
+
+.project_body{
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+}
+
+.project_list{
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+}
+}
