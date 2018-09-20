@@ -4,6 +4,14 @@ layout: default
 >>>
 __UPCOMING__  
 
+*MFA Late Nite stage curated by and featuring media_rins*
+> Swan Meat, Bergsonist, King Vision Ultra & Yatta, with media_rins showcase
+
+___
+
+>>>
+__SELECTED__
+
 *TRNGS + Cleo Miao*
 >
 07.21.2018 Tundra Dome, Philadelphia, PA  
@@ -15,11 +23,6 @@ __UPCOMING__
 07.22.2018 Skillshare with Stephanie Gray and Eliza Chandler  
 07.29.2018 DWC Party (DJ set by Stud1nt)  
 (all events will happen at Ace Hotel New York. Free with RSVP)  
-
-___
-
->>>
-__SELECTED__
 
 Augmented Reality and video projection at the Institute of Contemporary Art, Boston (2018)
 
