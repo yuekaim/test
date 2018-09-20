@@ -1,5 +1,5 @@
 ---
-title: "Beginner's Trumpet Solo"
+title: "beginner's trumpet solo"
 layout: projects
 catagories: Projects
 

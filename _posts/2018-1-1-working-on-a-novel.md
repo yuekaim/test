@@ -1,5 +1,5 @@
 ---
-title: "Working On A Novel"
+title: "working on a novel"
 layout: projects
 catagories: Projects
 

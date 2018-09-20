@@ -17,5 +17,5 @@ more coming soon.
 ![]({{ site.base-url }}/assets/img/projects/natureexe/6.jpg)
 ![]({{ site.base-url }}/assets/img/projects/natureexe/7.jpg)
 ![]({{ site.base-url }}/assets/img/projects/natureexe/8.jpg)
-![]({{ site.base-url }}/assets/img/projects/natureexe/9.jpg)
+![]({{ site.base-url }}/assets/img/projects/natureexe/9.jp)
 
