@@ -8,8 +8,7 @@ For my thesis installation, i created a digital nature to reimagine a post-indus
 <audio src="/assets/img/projects/natureexe/audio.mp3" controls preload></audio><br>
 ![]({{ site.base-url }}/assets/img/projects/natureexe/00.png)
 ![]({{ site.base-url }}/assets/img/projects/natureexe/01.png)
-<iframe src="https://player.vimeo.com/video/267359307" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<br>
+![]({{ site.base-url }}/assets/img/projects/natureexe/dance.gif)
 ![]({{ site.base-url }}/assets/img/projects/natureexe/1.jpg)
 ![]({{ site.base-url }}/assets/img/projects/natureexe/2.jpg)
 ![]({{ site.base-url }}/assets/img/projects/natureexe/3.jpg)
