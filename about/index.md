@@ -5,14 +5,14 @@ title: about
 >>>
 |please [email](mailto:yuekaim@gmail.com) for:|
 |---|
-|commission for art / design|
+|updated cv/resume,|
 |---|
-|booking inquiries|
+|commission for art / design,|
+|---|
+|booking inquiries, etc.|
 
 
 ❀
-
-[download cv here]({{ site.base-url }}/assets/cv2018.pdf)
 
 cleo (yuekai) miao is a chinese artist currently based in boston, MA. 
 
