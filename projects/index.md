@@ -1,4 +1,6 @@
 ---
 layout: projects
 ---
-website being updated. more projects will be online soon.
+in progress
+
+![]({{ site.base-url }}/assets/img/projects/WIP/face.mp4)
