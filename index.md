@@ -3,7 +3,7 @@ layout: default
 
 ---
 
-cleo miao is an ~~multi~~ anti-displinary artist based in boston, MA.
+cleo miao is an ~~multi~~ anti-displinary artist based in ~~boston, MA~~ new york.
 
   
 ⤵
@@ -17,10 +17,11 @@ thinking about the radical / critical graphic design and architecture.
 
                                                   ⬤
                                                   
-                                                  
-i'm trying to slowly distance myself from social media. this page will exist as sort of a general life update.
+                                               
 
-to hear about events i'm doing, sign up for [this newsletter](https://tinyletter.com/yuekaim)
+i decided to make my website more *brutalist* ~~???~~ so here it is. if you miss my old chaotic website [here is a web capture on webrecorder.](https://webrecorder.io/yuekaim/-/list/bookmarks/b3/20180712083400/http://www.cleomiao.info/home.html)
+
+[here is a newsletter](https://tinyletter.com/yuekaim)
 
 
 
