@@ -2,63 +2,66 @@
 layout: default
 ---
 >>>
-__UPCOMING__  
-
-*MFA Late Nite stage curated by and featuring media_rins*
-> Swan Meat, Bergsonist, King Vision Ultra & Yatta, with media_rins showcase
-
-___
-
->>>
 __SELECTED__
 
-*TRNGS + Cleo Miao*
->
-07.21.2018 Tundra Dome, Philadelphia, PA  
-07.22.2018 H0l0, New York, NY  
+2020.10  
+Hangzhou, China  
+Martin Goya Business THEfART Space  
+video "SOAK 浸" in Healing Space "wake up forever" coffee shop  
+  
+2020.02  
+Distillary Gallery, Boston  
+DRINKING: Temporary Pleasures  
+Double solo exhibition (featured on AQNB)  
 
-*Distributed Web of Care*
->
-07.15.2018 Skillshare with Jessica Lynne and Shannon Finnegan  
-07.22.2018 Skillshare with Stephanie Gray and Eliza Chandler  
-07.29.2018 DWC Party (DJ set by Stud1nt)  
-(all events will happen at Ace Hotel New York. Free with RSVP)  
+2019.09  
+Shanghai, China and Hangzhou, China  
+music performance for Genome6.66mbp and Function Lab at  
+All Club, Loopy, and Shanghai Community Radio  
 
-Augmented Reality and video projection at the Institute of Contemporary Art, Boston (2018)
+2019.06  
+Dorchester Art Project, Boston  
+Group exhibition  
+"Objects in the Monitor are Closer Than They Appear"  
 
-Group Performance at the Museum of Fine Arts, Boston (2018)
+2018.10  
+Museum of Fine Arts, Boston (curatorial)  
+MFA Late Nite  
+Curated a stage of experimental electronic performances for  
+the new media and music collective media_rins  
 
-eRR0R online VR exhibition at arrhythmicity created by DALPOFZS (2018)
+2018.05   
+School of the Museum of Fine Arts at Tufts University  
+In Search of Coalescence  
+SMFA Senior Thesis exhibition  
+ 
+2018.04  
+Peer-to-Peer Web LA  
+interactive web project shown at Distributed Web event  
 
-SMFA Senior Thesis (2017-2018)
+2018.04  
+Institute of Contemporary Art, Boston  
+Inter-Night presented by the ICA Coming of Age Collective  
+Augmented Reality and video projection  
 
-Non-Event Experimental Coffeehouse series at Café Fixe, Boston, MA (4/10/2018)
+2018.04  
+Museum of Fine Arts, Boston  
+Performance art  
+"Beginner's Trumpet Solo"  
+ 
+2018.04  
+Non-event  
+Experimental Coffee House   
+Solo performance at Café Fixe  
 
-Fort5: Of Motion (2017)
+2018.03  
+DALPOFZS  
+arrhythmicity: eRR0R  
+Online VR exhibition  
 
-The Drawn World - SMFA Drawing Annual (2017)
-
-Wentworth Institute of Technology New Media Show (2017)
-
-SMFA Photo Show (2017)
-
-Symbiotic - Spark Gallery at Northeastern University (2017)
-
-SMFA Drawing Annual (2016)
-
-Dorchester Art Project
-
-SMFA Library Sounds series
-
-New Ideas in Music and Sound
-
-___
->>>
-__CURATORIAL__
-
-Becoming Posthuman: multimedia / cyber art event in Boston, MA (2017/11/11)
-
-event planning for Teacher's Lounge in Allston, MA
-
-art installation "Trash Land" for boston hassle's hassle fest 8
-
+2017.11  
+Becoming Posthuman (curatorial)  
+Pop-up exhibition and performance  
+Curated a night of digital art and music.  
+"The internet helped me find what might be the most   
+important art event in Boston this fall." - Boston Art Review  

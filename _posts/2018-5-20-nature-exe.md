@@ -17,5 +17,5 @@ For my thesis installation, i created a digital nature to reimagine a post-indus
 ![]({{ site.base-url }}/assets/img/projects/natureexe/6.jpg)
 ![]({{ site.base-url }}/assets/img/projects/natureexe/7.jpg)
 ![]({{ site.base-url }}/assets/img/projects/natureexe/8.jpg)
-![]({{ site.base-url }}/assets/img/projects/natureexe/9.jp)
+![]({{ site.base-url }}/assets/img/projects/natureexe/9.jpg)
 
